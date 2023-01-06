@@ -24,17 +24,21 @@ I'm a freshman in Sangmyung University. I am majoring in Computer Science and cu
  - Java
  - C
 
+
 **Back-end**
 - Spring
 - Django
+
 
 **Front-end**
 - HTML
 - CSS
 - JS
 
+
 **DBMS**
 - MySQL
+
 
 **Cyber Security**
 - Computer Forensics
