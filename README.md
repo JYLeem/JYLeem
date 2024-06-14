@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 ## About me
 
-I'm a freshman in Sangmyung University. I am majoring in Computer Science and currently, I am interested in every field such as Front-end, Back-end and Cyber Security. 
+I am majoring in Computer Science and currently, I am interested in every field such as Front-end, Back-end and Cyber Security. 
 
 ## Tech Stack (Things I used at least once)
 **Language**
  - Python
  - Java
  - C
+ - Swift
 
 
 **Back-end**
@@ -34,6 +35,7 @@ I'm a freshman in Sangmyung University. I am majoring in Computer Science and cu
 - HTML
 - CSS
 - JS
+- iOS
 
 
 **DBMS**
